@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "djibi404@gmail.com",
+        "password": "$2y$12$lUhYC0GG87\/0VZBpnnIep.AIJHpGyMNMsZpTT7mo0p.pIeNRvy36i",
+        "role": "admin",
+        "active": true,
+        "created_at": "2026-02-02 03:05:52"
+    }
+]
